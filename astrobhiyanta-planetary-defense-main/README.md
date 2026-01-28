@@ -1,45 +1,96 @@
-**Use your preferred IDE**
+# 🌍 Meteor Madness – Asteroid Impact Visualization & Mitigation Tool
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**Team:** AstroBhiyanta  
+**College:** Gyan Ganga Institute of Technology and Sciences  
+**Degree:** B.Tech – Data Science  
 
-Follow these steps:
+**Members:**  
+- Sneha
+- Tanu  
+- Sakshi  
+- Nishtha
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🚀 Live Demo
+👉 [🚀 Launch Meteor Madness]([https://your-website-link-here](https://silver-torrone-a5cb95.netlify.app/))
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 📌 Problem Statement
+
+NASA tracks over **30,000+ Near-Earth Objects (NEOs)**, but the data is scattered and complex.  
+There is no single, easy-to-use platform for:
+- Visualizing asteroid impacts
+- Understanding damage severity
+- Testing mitigation strategies
+
+---
+
+## 💡 Solution
+
+**Meteor Madness** is an interactive web-based tool that allows users to simulate asteroid impacts and analyze mitigation strategies using visual and data-driven models.
+
+---
+
+## 🌌 Features
+
+- 🌍 **3D Impact Simulation**
+  - Blast radius
+  - Shockwaves
+  - Tsunami effects
+
+- 🛡 **Mitigation Strategy Testing**
+  - Kinetic impactor
+  - Nuclear deflection
+  - Gravity tractor
+  - Evacuation planning
+
+- 📊 **Data Visualization Dashboard**
+  - Risk level charts
+  - Impact probability
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React + Tailwind + Three.js
+- **Backend:**  USGS datasets + Scikit-learn
+- **API:** NASA Near-Earth Object (NEO) API
+- **Visualization:** Three.js, Chart.js
+- **Deployment:** Netlify
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/your-username/meteor-madness.git
+cd meteor-madness
+npm install
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+📌 Use code blocks for commands  
+📌 Replace GitHub link with yours
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🔹 STEP 10: Add Future Scope
 
-## What technologies are used for this project?
+👉 **Write:**
+```md
+---
 
-This project is built with:
+## 🚀 Future Enhancements
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- AI-based impact prediction
+- Real-time asteroid tracking
+- Mobile app version
+- Global alert system
 
-# astrobhiyanta-planetary-defense
+---
+
+## 📄 License
+
+This project is developed for **academic purposes** as part of the B.Tech curriculum.
