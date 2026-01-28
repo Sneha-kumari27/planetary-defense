@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Live Demo
-👉 [🚀 Launch Meteor Madness]([https://your-website-link-here](https://silver-torrone-a5cb95.netlify.app/))
+👉 [🚀 Launch Meteor Madness](https://silver-torrone-a5cb95.netlify.app/)
 
 ---
 
